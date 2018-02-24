@@ -46,7 +46,7 @@ jobs:
       - run: make config="--with-polarssl" without_ssl
 workflows:
   version: 2
-  ffmpeg_builds:
+  curl_builds:
     jobs:
       - build-with-gnutls
       - build-with-cyassl
