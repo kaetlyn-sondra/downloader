@@ -1,0 +1,1077 @@
+Scanning dependencies of target libcurl
+[  0%] Building C object lib/CMakeFiles/libcurl.dir/file.c.o
+[  0%] Building C object lib/CMakeFiles/libcurl.dir/timeval.c.o
+[  0%] Building C object lib/CMakeFiles/libcurl.dir/base64.c.o
+[  0%] Building C object lib/CMakeFiles/libcurl.dir/hostip.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/progress.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/formdata.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/cookie.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/http.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/sendf.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/ftp.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/url.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/dict.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/if2ip.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/speedcheck.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/ldap.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/version.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/getenv.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/escape.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/mprintf.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/telnet.c.o
+[  2%] Building C object lib/CMakeFiles/libcurl.dir/netrc.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/getinfo.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/transfer.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/strcase.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/easy.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/security.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/curl_fnmatch.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/fileinfo.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/ftplistparser.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/wildcard.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/krb5.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/memdebug.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/http_chunks.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/strtok.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/connect.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/llist.c.o
+[  4%] Building C object lib/CMakeFiles/libcurl.dir/hash.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/multi.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/content_encoding.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/share.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/http_digest.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/md4.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/md5.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/http_negotiate.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/inet_pton.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/strtoofft.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/strerror.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/amigaos.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/hostasyn.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/hostip4.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/hostip6.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/hostsyn.c.o
+[  6%] Building C object lib/CMakeFiles/libcurl.dir/inet_ntop.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/parsedate.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/select.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/tftp.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/splay.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/strdup.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/socks.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/ssh.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/ssh-libssh.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/curl_addrinfo.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/socks_gssapi.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/socks_sspi.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/curl_sspi.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/slist.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/nonblock.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/curl_memrchr.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/imap.c.o
+[  8%] Building C object lib/CMakeFiles/libcurl.dir/pop3.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/smtp.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/pingpong.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/rtsp.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/curl_threads.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/warnless.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/hmac.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/curl_rtmp.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/openldap.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/curl_gethostname.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/gopher.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/idn_win32.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/http_proxy.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/non-ascii.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/asyn-ares.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/asyn-thread.c.o
+[ 10%] Building C object lib/CMakeFiles/libcurl.dir/curl_gssapi.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/http_ntlm.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/curl_ntlm_wb.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/curl_ntlm_core.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/curl_sasl.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/rand.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/curl_multibyte.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/hostcheck.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/conncache.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/pipeline.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/dotdot.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/x509asn1.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/http2.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/smb.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/curl_endian.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/curl_des.c.o
+[ 12%] Building C object lib/CMakeFiles/libcurl.dir/system_win32.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/mime.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/sha256.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/setopt.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/curl_path.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/curl_ctype.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/curl_range.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/vauth/vauth.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/vauth/cleartext.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/vauth/cram.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/vauth/digest.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/vauth/digest_sspi.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/vauth/krb5_gssapi.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/vauth/krb5_sspi.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/vauth/ntlm.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/vauth/ntlm_sspi.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/vauth/oauth2.c.o
+[ 14%] Building C object lib/CMakeFiles/libcurl.dir/vauth/spnego_gssapi.c.o
+[ 16%] Building C object lib/CMakeFiles/libcurl.dir/vauth/spnego_sspi.c.o
+[ 16%] Building C object lib/CMakeFiles/libcurl.dir/vtls/openssl.c.o
+[ 16%] Building C object lib/CMakeFiles/libcurl.dir/vtls/gtls.c.o
+[ 16%] Building C object lib/CMakeFiles/libcurl.dir/vtls/vtls.c.o
+[ 16%] Building C object lib/CMakeFiles/libcurl.dir/vtls/nss.c.o
+[ 16%] Building C object lib/CMakeFiles/libcurl.dir/vtls/polarssl.c.o
+[ 16%] Building C object lib/CMakeFiles/libcurl.dir/vtls/polarssl_threadlock.c.o
+[ 16%] Building C object lib/CMakeFiles/libcurl.dir/vtls/axtls.c.o
+[ 16%] Building C object lib/CMakeFiles/libcurl.dir/vtls/cyassl.c.o
+[ 16%] Building C object lib/CMakeFiles/libcurl.dir/vtls/schannel.c.o
+[ 16%] Building C object lib/CMakeFiles/libcurl.dir/vtls/darwinssl.c.o
+[ 16%] Building C object lib/CMakeFiles/libcurl.dir/vtls/gskit.c.o
+[ 16%] Building C object lib/CMakeFiles/libcurl.dir/vtls/mbedtls.c.o
+[ 16%] Linking C shared library libcurl.so
+[ 16%] Built target libcurl
+Scanning dependencies of target generate-curl.1
+[ 16%] Generating ../curl.1
+[ 16%] Built target generate-curl.1
+[ 16%] Generating tool_hugehelp.c
+Scanning dependencies of target curl
+[ 16%] Building C object src/CMakeFiles/curl.dir/slist_wc.c.o
+[ 16%] Building C object src/CMakeFiles/curl.dir/tool_binmode.c.o
+[ 16%] Building C object src/CMakeFiles/curl.dir/tool_bname.c.o
+[ 16%] Building C object src/CMakeFiles/curl.dir/tool_cb_dbg.c.o
+[ 16%] Building C object src/CMakeFiles/curl.dir/tool_cb_hdr.c.o
+[ 16%] Building C object src/CMakeFiles/curl.dir/tool_cb_prg.c.o
+[ 16%] Building C object src/CMakeFiles/curl.dir/tool_cb_rea.c.o
+[ 16%] Building C object src/CMakeFiles/curl.dir/tool_cb_see.c.o
+[ 16%] Building C object src/CMakeFiles/curl.dir/tool_cb_wrt.c.o
+[ 16%] Building C object src/CMakeFiles/curl.dir/tool_cfgable.c.o
+[ 16%] Building C object src/CMakeFiles/curl.dir/tool_convert.c.o
+[ 16%] Building C object src/CMakeFiles/curl.dir/tool_dirhie.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_doswin.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_easysrc.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_filetime.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_formparse.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_getparam.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_getpass.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_help.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_helpers.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_homedir.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_hugehelp.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_libinfo.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_main.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_metalink.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_msgs.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_operate.c.o
+[ 18%] Building C object src/CMakeFiles/curl.dir/tool_operhlp.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/tool_panykey.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/tool_paramhlp.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/tool_parsecfg.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/tool_strdup.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/tool_setopt.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/tool_sleep.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/tool_urlglob.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/tool_util.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/tool_vms.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/tool_writeout.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/tool_xattr.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/__/lib/strtoofft.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/__/lib/nonblock.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/__/lib/warnless.c.o
+[ 20%] Building C object src/CMakeFiles/curl.dir/__/lib/curl_ctype.c.o
+[ 20%] Linking C executable curl
+[ 20%] Built target curl
+Scanning dependencies of target hostname
+[ 20%] Building C object tests/libtest/CMakeFiles/hostname.dir/sethostname.c.o
+[ 20%] Linking C shared module .libs/libhostname.so
+[ 20%] Built target hostname
+Scanning dependencies of target lib2033
+[ 20%] Building C object tests/libtest/CMakeFiles/lib2033.dir/libntlmconnect.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib2033.dir/first.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib2033.dir/testutil.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib2033.dir/__/__/lib/warnless.c.o
+[ 22%] Linking C executable lib2033
+[ 22%] Built target lib2033
+Scanning dependencies of target lib1900
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1900.dir/lib1900.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1900.dir/first.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1900.dir/testutil.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1900.dir/__/__/lib/warnless.c.o
+[ 22%] Linking C executable lib1900
+[ 22%] Built target lib1900
+Scanning dependencies of target lib1556
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1556.dir/lib1556.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1556.dir/first.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1556.dir/testutil.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1556.dir/__/__/lib/warnless.c.o
+[ 22%] Linking C executable lib1556
+[ 22%] Built target lib1556
+Scanning dependencies of target lib1553
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1553.dir/lib1553.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1553.dir/first.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1553.dir/testutil.c.o
+[ 22%] Linking C executable lib1553
+[ 22%] Built target lib1553
+Scanning dependencies of target lib1551
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1551.dir/lib1551.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1551.dir/first.c.o
+[ 22%] Linking C executable lib1551
+[ 22%] Built target lib1551
+Scanning dependencies of target lib1540
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1540.dir/lib1540.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1540.dir/first.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1540.dir/testutil.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1540.dir/__/__/lib/warnless.c.o
+[ 22%] Linking C executable lib1540
+[ 22%] Built target lib1540
+Scanning dependencies of target lib1538
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1538.dir/lib1538.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1538.dir/first.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1538.dir/testutil.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1538.dir/__/__/lib/warnless.c.o
+[ 22%] Linking C executable lib1538
+[ 22%] Built target lib1538
+Scanning dependencies of target lib1537
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1537.dir/lib1537.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1537.dir/first.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1537.dir/testutil.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1537.dir/__/__/lib/warnless.c.o
+[ 22%] Linking C executable lib1537
+[ 22%] Built target lib1537
+Scanning dependencies of target lib1536
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1536.dir/lib1536.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1536.dir/first.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1536.dir/testutil.c.o
+[ 22%] Building C object tests/libtest/CMakeFiles/lib1536.dir/__/__/lib/warnless.c.o
+[ 25%] Linking C executable lib1536
+[ 25%] Built target lib1536
+Scanning dependencies of target lib1535
+[ 25%] Building C object tests/libtest/CMakeFiles/lib1535.dir/lib1535.c.o
+[ 25%] Building C object tests/libtest/CMakeFiles/lib1535.dir/first.c.o
+[ 25%] Building C object tests/libtest/CMakeFiles/lib1535.dir/testutil.c.o
+[ 25%] Building C object tests/libtest/CMakeFiles/lib1535.dir/__/__/lib/warnless.c.o
+[ 25%] Linking C executable lib1535
+[ 25%] Built target lib1535
+Scanning dependencies of target lib1534
+[ 25%] Building C object tests/libtest/CMakeFiles/lib1534.dir/lib1534.c.o
+[ 25%] Building C object tests/libtest/CMakeFiles/lib1534.dir/first.c.o
+[ 25%] Building C object tests/libtest/CMakeFiles/lib1534.dir/testutil.c.o
+[ 25%] Building C object tests/libtest/CMakeFiles/lib1534.dir/__/__/lib/warnless.c.o
+[ 25%] Linking C executable lib1534
+[ 25%] Built target lib1534
+Scanning dependencies of target lib1555
+[ 27%] Building C object tests/libtest/CMakeFiles/lib1555.dir/lib1555.c.o
+[ 27%] Building C object tests/libtest/CMakeFiles/lib1555.dir/first.c.o
+[ 27%] Building C object tests/libtest/CMakeFiles/lib1555.dir/testutil.c.o
+[ 27%] Building C object tests/libtest/CMakeFiles/lib1555.dir/__/__/lib/warnless.c.o
+[ 27%] Linking C executable lib1555
+[ 27%] Built target lib1555
+Scanning dependencies of target lib1531
+[ 27%] Building C object tests/libtest/CMakeFiles/lib1531.dir/lib1531.c.o
+[ 27%] Building C object tests/libtest/CMakeFiles/lib1531.dir/first.c.o
+[ 27%] Building C object tests/libtest/CMakeFiles/lib1531.dir/testutil.c.o
+[ 27%] Building C object tests/libtest/CMakeFiles/lib1531.dir/__/__/lib/warnless.c.o
+[ 27%] Linking C executable lib1531
+[ 27%] Built target lib1531
+Scanning dependencies of target lib1529
+[ 27%] Building C object tests/libtest/CMakeFiles/lib1529.dir/lib1529.c.o
+[ 27%] Building C object tests/libtest/CMakeFiles/lib1529.dir/first.c.o
+[ 27%] Building C object tests/libtest/CMakeFiles/lib1529.dir/testutil.c.o
+[ 27%] Building C object tests/libtest/CMakeFiles/lib1529.dir/__/__/lib/warnless.c.o
+[ 27%] Linking C executable lib1529
+[ 27%] Built target lib1529
+Scanning dependencies of target lib1527
+[ 29%] Building C object tests/libtest/CMakeFiles/lib1527.dir/lib1527.c.o
+[ 29%] Building C object tests/libtest/CMakeFiles/lib1527.dir/first.c.o
+[ 29%] Building C object tests/libtest/CMakeFiles/lib1527.dir/testutil.c.o
+[ 29%] Building C object tests/libtest/CMakeFiles/lib1527.dir/__/__/lib/warnless.c.o
+[ 29%] Linking C executable lib1527
+[ 29%] Built target lib1527
+Scanning dependencies of target lib1517
+[ 29%] Building C object tests/libtest/CMakeFiles/lib1517.dir/lib1517.c.o
+[ 29%] Building C object tests/libtest/CMakeFiles/lib1517.dir/first.c.o
+[ 29%] Linking C executable lib1517
+[ 29%] Built target lib1517
+Scanning dependencies of target lib1513
+[ 29%] Building C object tests/libtest/CMakeFiles/lib1513.dir/lib1513.c.o
+[ 29%] Building C object tests/libtest/CMakeFiles/lib1513.dir/first.c.o
+[ 31%] Building C object tests/libtest/CMakeFiles/lib1513.dir/testutil.c.o
+[ 31%] Building C object tests/libtest/CMakeFiles/lib1513.dir/__/__/lib/warnless.c.o
+[ 31%] Linking C executable lib1513
+[ 31%] Built target lib1513
+Scanning dependencies of target lib1507
+[ 31%] Building C object tests/libtest/CMakeFiles/lib1507.dir/lib1507.c.o
+[ 31%] Building C object tests/libtest/CMakeFiles/lib1507.dir/first.c.o
+[ 31%] Building C object tests/libtest/CMakeFiles/lib1507.dir/testutil.c.o
+[ 31%] Building C object tests/libtest/CMakeFiles/lib1507.dir/__/__/lib/warnless.c.o
+[ 31%] Linking C executable lib1507
+[ 31%] Built target lib1507
+Scanning dependencies of target lib1506
+[ 31%] Building C object tests/libtest/CMakeFiles/lib1506.dir/lib1506.c.o
+[ 31%] Building C object tests/libtest/CMakeFiles/lib1506.dir/first.c.o
+[ 31%] Building C object tests/libtest/CMakeFiles/lib1506.dir/testutil.c.o
+[ 31%] Building C object tests/libtest/CMakeFiles/lib1506.dir/__/__/lib/warnless.c.o
+[ 33%] Linking C executable lib1506
+[ 33%] Built target lib1506
+Scanning dependencies of target lib1505
+[ 33%] Building C object tests/libtest/CMakeFiles/lib1505.dir/lib1502.c.o
+[ 33%] Building C object tests/libtest/CMakeFiles/lib1505.dir/first.c.o
+[ 33%] Building C object tests/libtest/CMakeFiles/lib1505.dir/testutil.c.o
+[ 33%] Building C object tests/libtest/CMakeFiles/lib1505.dir/__/__/lib/warnless.c.o
+[ 33%] Linking C executable lib1505
+[ 33%] Built target lib1505
+Scanning dependencies of target lib1511
+[ 33%] Building C object tests/libtest/CMakeFiles/lib1511.dir/lib1511.c.o
+[ 33%] Building C object tests/libtest/CMakeFiles/lib1511.dir/first.c.o
+[ 33%] Building C object tests/libtest/CMakeFiles/lib1511.dir/testutil.c.o
+[ 33%] Building C object tests/libtest/CMakeFiles/lib1511.dir/__/__/lib/warnless.c.o
+[ 33%] Linking C executable lib1511
+[ 33%] Built target lib1511
+Scanning dependencies of target lib549
+[ 33%] Building C object tests/libtest/CMakeFiles/lib549.dir/lib549.c.o
+[ 33%] Building C object tests/libtest/CMakeFiles/lib549.dir/first.c.o
+[ 33%] Linking C executable lib549
+[ 33%] Built target lib549
+Scanning dependencies of target lib1512
+[ 33%] Building C object tests/libtest/CMakeFiles/lib1512.dir/lib1512.c.o
+[ 33%] Building C object tests/libtest/CMakeFiles/lib1512.dir/first.c.o
+[ 33%] Building C object tests/libtest/CMakeFiles/lib1512.dir/testutil.c.o
+[ 33%] Building C object tests/libtest/CMakeFiles/lib1512.dir/__/__/lib/warnless.c.o
+[ 33%] Linking C executable lib1512
+[ 33%] Built target lib1512
+Scanning dependencies of target lib590
+[ 33%] Building C object tests/libtest/CMakeFiles/lib590.dir/lib590.c.o
+[ 33%] Building C object tests/libtest/CMakeFiles/lib590.dir/first.c.o
+[ 33%] Linking C executable lib590
+[ 33%] Built target lib590
+Scanning dependencies of target lib532
+[ 33%] Building C object tests/libtest/CMakeFiles/lib532.dir/lib526.c.o
+[ 33%] Building C object tests/libtest/CMakeFiles/lib532.dir/first.c.o
+[ 33%] Building C object tests/libtest/CMakeFiles/lib532.dir/testutil.c.o
+[ 35%] Building C object tests/libtest/CMakeFiles/lib532.dir/__/__/lib/warnless.c.o
+[ 35%] Linking C executable lib532
+[ 35%] Built target lib532
+Scanning dependencies of target lib554
+[ 35%] Building C object tests/libtest/CMakeFiles/lib554.dir/lib554.c.o
+[ 35%] Building C object tests/libtest/CMakeFiles/lib554.dir/first.c.o
+[ 35%] Linking C executable lib554
+[ 35%] Built target lib554
+Scanning dependencies of target lib527
+[ 35%] Building C object tests/libtest/CMakeFiles/lib527.dir/lib526.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib527.dir/first.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib527.dir/testutil.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib527.dir/__/__/lib/warnless.c.o
+[ 37%] Linking C executable lib527
+[ 37%] Built target lib527
+Scanning dependencies of target lib582
+[ 37%] Building C object tests/libtest/CMakeFiles/lib582.dir/lib582.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib582.dir/first.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib582.dir/testutil.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib582.dir/__/__/lib/warnless.c.o
+[ 37%] Linking C executable lib582
+[ 37%] Built target lib582
+Scanning dependencies of target lib536
+[ 37%] Building C object tests/libtest/CMakeFiles/lib536.dir/lib536.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib536.dir/first.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib536.dir/testutil.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib536.dir/__/__/lib/warnless.c.o
+[ 37%] Linking C executable lib536
+[ 37%] Built target lib536
+Scanning dependencies of target lib1532
+[ 37%] Building C object tests/libtest/CMakeFiles/lib1532.dir/lib1532.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib1532.dir/first.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib1532.dir/testutil.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib1532.dir/__/__/lib/warnless.c.o
+[ 37%] Linking C executable lib1532
+[ 37%] Built target lib1532
+Scanning dependencies of target lib570
+[ 37%] Building C object tests/libtest/CMakeFiles/lib570.dir/lib570.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib570.dir/first.c.o
+[ 37%] Linking C executable lib570
+[ 37%] Built target lib570
+Scanning dependencies of target lib526
+[ 37%] Building C object tests/libtest/CMakeFiles/lib526.dir/lib526.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib526.dir/first.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib526.dir/testutil.c.o
+[ 37%] Building C object tests/libtest/CMakeFiles/lib526.dir/__/__/lib/warnless.c.o
+[ 37%] Linking C executable lib526
+[ 37%] Built target lib526
+Scanning dependencies of target lib1550
+[ 39%] Building C object tests/libtest/CMakeFiles/lib1550.dir/lib1550.c.o
+[ 39%] Building C object tests/libtest/CMakeFiles/lib1550.dir/first.c.o
+[ 39%] Linking C executable lib1550
+[ 39%] Built target lib1550
+Scanning dependencies of target lib524
+[ 39%] Building C object tests/libtest/CMakeFiles/lib524.dir/lib524.c.o
+[ 39%] Building C object tests/libtest/CMakeFiles/lib524.dir/first.c.o
+[ 39%] Linking C executable lib524
+[ 39%] Built target lib524
+Scanning dependencies of target lib559
+[ 39%] Building C object tests/libtest/CMakeFiles/lib559.dir/lib559.c.o
+[ 39%] Building C object tests/libtest/CMakeFiles/lib559.dir/first.c.o
+[ 39%] Linking C executable lib559
+[ 39%] Built target lib559
+Scanning dependencies of target lib1552
+[ 39%] Building C object tests/libtest/CMakeFiles/lib1552.dir/lib1552.c.o
+[ 39%] Building C object tests/libtest/CMakeFiles/lib1552.dir/first.c.o
+[ 39%] Building C object tests/libtest/CMakeFiles/lib1552.dir/testutil.c.o
+[ 39%] Linking C executable lib1552
+[ 39%] Built target lib1552
+Scanning dependencies of target chkhostname
+[ 39%] Building C object tests/libtest/CMakeFiles/chkhostname.dir/chkhostname.c.o
+[ 39%] Building C object tests/libtest/CMakeFiles/chkhostname.dir/__/__/lib/curl_gethostname.c.o
+[ 39%] Linking C executable chkhostname
+[ 39%] Built target chkhostname
+Scanning dependencies of target lib502
+[ 39%] Building C object tests/libtest/CMakeFiles/lib502.dir/lib502.c.o
+[ 39%] Building C object tests/libtest/CMakeFiles/lib502.dir/first.c.o
+[ 39%] Building C object tests/libtest/CMakeFiles/lib502.dir/testutil.c.o
+[ 39%] Building C object tests/libtest/CMakeFiles/lib502.dir/__/__/lib/warnless.c.o
+[ 41%] Linking C executable lib502
+[ 41%] Built target lib502
+Scanning dependencies of target lib548
+[ 41%] Building C object tests/libtest/CMakeFiles/lib548.dir/lib547.c.o
+[ 41%] Building C object tests/libtest/CMakeFiles/lib548.dir/first.c.o
+[ 41%] Linking C executable lib548
+[ 41%] Built target lib548
+Scanning dependencies of target lib1533
+[ 41%] Building C object tests/libtest/CMakeFiles/lib1533.dir/lib1533.c.o
+[ 41%] Building C object tests/libtest/CMakeFiles/lib1533.dir/first.c.o
+[ 41%] Building C object tests/libtest/CMakeFiles/lib1533.dir/testutil.c.o
+[ 43%] Building C object tests/libtest/CMakeFiles/lib1533.dir/__/__/lib/warnless.c.o
+[ 43%] Linking C executable lib1533
+[ 43%] Built target lib1533
+Scanning dependencies of target lib644
+[ 43%] Building C object tests/libtest/CMakeFiles/lib644.dir/lib643.c.o
+[ 43%] Building C object tests/libtest/CMakeFiles/lib644.dir/first.c.o
+[ 43%] Linking C executable lib644
+[ 43%] Built target lib644
+Scanning dependencies of target lib576
+[ 43%] Building C object tests/libtest/CMakeFiles/lib576.dir/lib576.c.o
+[ 43%] Building C object tests/libtest/CMakeFiles/lib576.dir/first.c.o
+[ 45%] Linking C executable lib576
+[ 45%] Built target lib576
+Scanning dependencies of target libntlmconnect
+[ 45%] Building C object tests/libtest/CMakeFiles/libntlmconnect.dir/libntlmconnect.c.o
+[ 45%] Building C object tests/libtest/CMakeFiles/libntlmconnect.dir/first.c.o
+[ 47%] Building C object tests/libtest/CMakeFiles/libntlmconnect.dir/testutil.c.o
+[ 47%] Building C object tests/libtest/CMakeFiles/libntlmconnect.dir/__/__/lib/warnless.c.o
+[ 47%] Linking C executable libntlmconnect
+[ 47%] Built target libntlmconnect
+Scanning dependencies of target lib555
+[ 47%] Building C object tests/libtest/CMakeFiles/lib555.dir/lib555.c.o
+[ 47%] Building C object tests/libtest/CMakeFiles/lib555.dir/first.c.o
+[ 47%] Building C object tests/libtest/CMakeFiles/lib555.dir/testutil.c.o
+[ 47%] Building C object tests/libtest/CMakeFiles/lib555.dir/__/__/lib/warnless.c.o
+[ 47%] Linking C executable lib555
+[ 47%] Built target lib555
+Scanning dependencies of target lib1502
+[ 47%] Building C object tests/libtest/CMakeFiles/lib1502.dir/lib1502.c.o
+[ 47%] Building C object tests/libtest/CMakeFiles/lib1502.dir/first.c.o
+[ 47%] Building C object tests/libtest/CMakeFiles/lib1502.dir/testutil.c.o
+[ 47%] Building C object tests/libtest/CMakeFiles/lib1502.dir/__/__/lib/warnless.c.o
+[ 47%] Linking C executable lib1502
+[ 47%] Built target lib1502
+Scanning dependencies of target lib540
+[ 47%] Building C object tests/libtest/CMakeFiles/lib540.dir/lib540.c.o
+[ 47%] Building C object tests/libtest/CMakeFiles/lib540.dir/first.c.o
+[ 47%] Building C object tests/libtest/CMakeFiles/lib540.dir/testutil.c.o
+[ 47%] Building C object tests/libtest/CMakeFiles/lib540.dir/__/__/lib/warnless.c.o
+[ 47%] Linking C executable lib540
+[ 47%] Built target lib540
+Scanning dependencies of target lib539
+[ 50%] Building C object tests/libtest/CMakeFiles/lib539.dir/lib539.c.o
+[ 50%] Building C object tests/libtest/CMakeFiles/lib539.dir/first.c.o
+[ 50%] Linking C executable lib539
+[ 50%] Built target lib539
+Scanning dependencies of target lib597
+[ 50%] Building C object tests/libtest/CMakeFiles/lib597.dir/lib597.c.o
+[ 50%] Building C object tests/libtest/CMakeFiles/lib597.dir/first.c.o
+[ 50%] Building C object tests/libtest/CMakeFiles/lib597.dir/testutil.c.o
+[ 50%] Building C object tests/libtest/CMakeFiles/lib597.dir/__/__/lib/warnless.c.o
+[ 50%] Linking C executable lib597
+[ 50%] Built target lib597
+Scanning dependencies of target lib1526
+[ 50%] Building C object tests/libtest/CMakeFiles/lib1526.dir/lib1526.c.o
+[ 50%] Building C object tests/libtest/CMakeFiles/lib1526.dir/first.c.o
+[ 50%] Building C object tests/libtest/CMakeFiles/lib1526.dir/testutil.c.o
+[ 50%] Building C object tests/libtest/CMakeFiles/lib1526.dir/__/__/lib/warnless.c.o
+[ 50%] Linking C executable lib1526
+[ 50%] Built target lib1526
+Scanning dependencies of target lib598
+[ 50%] Building C object tests/libtest/CMakeFiles/lib598.dir/lib598.c.o
+[ 50%] Building C object tests/libtest/CMakeFiles/lib598.dir/first.c.o
+[ 50%] Linking C executable lib598
+[ 50%] Built target lib598
+Scanning dependencies of target lib501
+[ 50%] Building C object tests/libtest/CMakeFiles/lib501.dir/lib501.c.o
+[ 50%] Building C object tests/libtest/CMakeFiles/lib501.dir/first.c.o
+[ 50%] Linking C executable lib501
+[ 50%] Built target lib501
+Scanning dependencies of target lib506
+[ 50%] Building C object tests/libtest/CMakeFiles/lib506.dir/lib506.c.o
+[ 50%] Building C object tests/libtest/CMakeFiles/lib506.dir/first.c.o
+[ 50%] Linking C executable lib506
+[ 50%] Built target lib506
+Scanning dependencies of target lib643
+[ 50%] Building C object tests/libtest/CMakeFiles/lib643.dir/lib643.c.o
+[ 50%] Building C object tests/libtest/CMakeFiles/lib643.dir/first.c.o
+[ 52%] Linking C executable lib643
+[ 52%] Built target lib643
+Scanning dependencies of target lib543
+[ 52%] Building C object tests/libtest/CMakeFiles/lib543.dir/lib543.c.o
+[ 52%] Building C object tests/libtest/CMakeFiles/lib543.dir/first.c.o
+[ 54%] Linking C executable lib543
+[ 54%] Built target lib543
+Scanning dependencies of target lib1514
+[ 54%] Building C object tests/libtest/CMakeFiles/lib1514.dir/lib1514.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib1514.dir/first.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib1514.dir/testutil.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib1514.dir/__/__/lib/warnless.c.o
+[ 54%] Linking C executable lib1514
+[ 54%] Built target lib1514
+Scanning dependencies of target lib503
+[ 54%] Building C object tests/libtest/CMakeFiles/lib503.dir/lib503.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib503.dir/first.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib503.dir/testutil.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib503.dir/__/__/lib/warnless.c.o
+[ 54%] Linking C executable lib503
+[ 54%] Built target lib503
+Scanning dependencies of target lib529
+[ 54%] Building C object tests/libtest/CMakeFiles/lib529.dir/lib525.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib529.dir/first.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib529.dir/testutil.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib529.dir/__/__/lib/warnless.c.o
+[ 54%] Linking C executable lib529
+[ 54%] Built target lib529
+Scanning dependencies of target lib525
+[ 54%] Building C object tests/libtest/CMakeFiles/lib525.dir/lib525.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib525.dir/first.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib525.dir/testutil.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib525.dir/__/__/lib/warnless.c.o
+[ 54%] Linking C executable lib525
+[ 54%] Built target lib525
+Scanning dependencies of target lib504
+[ 54%] Building C object tests/libtest/CMakeFiles/lib504.dir/lib504.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib504.dir/first.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib504.dir/testutil.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib504.dir/__/__/lib/warnless.c.o
+[ 54%] Linking C executable lib504
+[ 54%] Built target lib504
+Scanning dependencies of target lib544
+[ 54%] Building C object tests/libtest/CMakeFiles/lib544.dir/lib544.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib544.dir/first.c.o
+[ 54%] Linking C executable lib544
+[ 54%] Built target lib544
+Scanning dependencies of target lib575
+[ 54%] Building C object tests/libtest/CMakeFiles/lib575.dir/lib575.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib575.dir/first.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib575.dir/testutil.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib575.dir/__/__/lib/warnless.c.o
+[ 54%] Linking C executable lib575
+[ 54%] Built target lib575
+Scanning dependencies of target lib566
+[ 54%] Building C object tests/libtest/CMakeFiles/lib566.dir/lib566.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib566.dir/first.c.o
+[ 54%] Linking C executable lib566
+[ 54%] Built target lib566
+Scanning dependencies of target lib500
+[ 54%] Building C object tests/libtest/CMakeFiles/lib500.dir/lib500.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib500.dir/first.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib500.dir/testutil.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib500.dir/testtrace.c.o
+[ 54%] Linking C executable lib500
+[ 54%] Built target lib500
+Scanning dependencies of target lib1515
+[ 54%] Building C object tests/libtest/CMakeFiles/lib1515.dir/lib1515.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib1515.dir/first.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib1515.dir/testutil.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib1515.dir/__/__/lib/warnless.c.o
+[ 54%] Linking C executable lib1515
+[ 54%] Built target lib1515
+Scanning dependencies of target lib545
+[ 54%] Building C object tests/libtest/CMakeFiles/lib545.dir/lib544.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib545.dir/first.c.o
+[ 54%] Linking C executable lib545
+[ 54%] Built target lib545
+Scanning dependencies of target lib651
+[ 54%] Building C object tests/libtest/CMakeFiles/lib651.dir/lib651.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib651.dir/first.c.o
+[ 54%] Linking C executable lib651
+[ 54%] Built target lib651
+Scanning dependencies of target lib505
+[ 54%] Building C object tests/libtest/CMakeFiles/lib505.dir/lib505.c.o
+[ 54%] Building C object tests/libtest/CMakeFiles/lib505.dir/first.c.o
+[ 54%] Linking C executable lib505
+[ 54%] Built target lib505
+Scanning dependencies of target lib573
+[ 56%] Building C object tests/libtest/CMakeFiles/lib573.dir/lib573.c.o
+[ 56%] Building C object tests/libtest/CMakeFiles/lib573.dir/first.c.o
+[ 56%] Building C object tests/libtest/CMakeFiles/lib573.dir/testutil.c.o
+[ 56%] Building C object tests/libtest/CMakeFiles/lib573.dir/__/__/lib/warnless.c.o
+[ 56%] Building C object tests/libtest/CMakeFiles/lib573.dir/testtrace.c.o
+[ 56%] Linking C executable lib573
+[ 56%] Built target lib573
+Scanning dependencies of target lib1530
+[ 56%] Building C object tests/libtest/CMakeFiles/lib1530.dir/lib1530.c.o
+[ 58%] Building C object tests/libtest/CMakeFiles/lib1530.dir/first.c.o
+[ 58%] Building C object tests/libtest/CMakeFiles/lib1530.dir/testutil.c.o
+[ 58%] Building C object tests/libtest/CMakeFiles/lib1530.dir/__/__/lib/warnless.c.o
+[ 58%] Linking C executable lib1530
+[ 58%] Built target lib1530
+Scanning dependencies of target lib533
+[ 58%] Building C object tests/libtest/CMakeFiles/lib533.dir/lib533.c.o
+[ 58%] Building C object tests/libtest/CMakeFiles/lib533.dir/first.c.o
+[ 58%] Building C object tests/libtest/CMakeFiles/lib533.dir/testutil.c.o
+[ 58%] Building C object tests/libtest/CMakeFiles/lib533.dir/__/__/lib/warnless.c.o
+[ 58%] Linking C executable lib533
+[ 58%] Built target lib533
+Scanning dependencies of target lib523
+[ 58%] Building C object tests/libtest/CMakeFiles/lib523.dir/lib523.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib523.dir/first.c.o
+[ 60%] Linking C executable lib523
+[ 60%] Built target lib523
+Scanning dependencies of target lib1528
+[ 60%] Building C object tests/libtest/CMakeFiles/lib1528.dir/lib1528.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib1528.dir/first.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib1528.dir/testutil.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib1528.dir/__/__/lib/warnless.c.o
+[ 60%] Linking C executable lib1528
+[ 60%] Built target lib1528
+Scanning dependencies of target lib521
+[ 60%] Building C object tests/libtest/CMakeFiles/lib521.dir/lib521.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib521.dir/first.c.o
+[ 60%] Linking C executable lib521
+[ 60%] Built target lib521
+Scanning dependencies of target lib508
+[ 60%] Building C object tests/libtest/CMakeFiles/lib508.dir/lib508.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib508.dir/first.c.o
+[ 60%] Linking C executable lib508
+[ 60%] Built target lib508
+Scanning dependencies of target lib512
+[ 60%] Building C object tests/libtest/CMakeFiles/lib512.dir/lib512.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib512.dir/first.c.o
+[ 60%] Linking C executable lib512
+[ 60%] Built target lib512
+Scanning dependencies of target lib1508
+[ 60%] Building C object tests/libtest/CMakeFiles/lib1508.dir/lib1508.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib1508.dir/first.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib1508.dir/testutil.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib1508.dir/__/__/lib/warnless.c.o
+[ 60%] Linking C executable lib1508
+[ 60%] Built target lib1508
+Scanning dependencies of target lib542
+[ 60%] Building C object tests/libtest/CMakeFiles/lib542.dir/lib542.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib542.dir/first.c.o
+[ 60%] Linking C executable lib542
+[ 60%] Built target lib542
+Scanning dependencies of target lib645
+[ 60%] Building C object tests/libtest/CMakeFiles/lib645.dir/lib643.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib645.dir/first.c.o
+[ 60%] Linking C executable lib645
+[ 60%] Built target lib645
+Scanning dependencies of target lib547
+[ 60%] Building C object tests/libtest/CMakeFiles/lib547.dir/lib547.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib547.dir/first.c.o
+[ 60%] Linking C executable lib547
+[ 60%] Built target lib547
+Scanning dependencies of target libauthretry
+[ 60%] Building C object tests/libtest/CMakeFiles/libauthretry.dir/libauthretry.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/libauthretry.dir/first.c.o
+[ 60%] Linking C executable libauthretry
+[ 60%] Built target libauthretry
+Scanning dependencies of target lib564
+[ 60%] Building C object tests/libtest/CMakeFiles/lib564.dir/lib564.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib564.dir/first.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib564.dir/testutil.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib564.dir/__/__/lib/warnless.c.o
+[ 60%] Linking C executable lib564
+[ 60%] Built target lib564
+[ 60%] Generating lib1521.c
+Scanning dependencies of target lib1521
+[ 60%] Building C object tests/libtest/CMakeFiles/lib1521.dir/lib1521.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib1521.dir/first.c.o
+[ 60%] Linking C executable lib1521
+[ 60%] Built target lib1521
+Scanning dependencies of target lib530
+[ 60%] Building C object tests/libtest/CMakeFiles/lib530.dir/lib530.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib530.dir/first.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib530.dir/testutil.c.o
+[ 60%] Building C object tests/libtest/CMakeFiles/lib530.dir/__/__/lib/warnless.c.o
+[ 60%] Linking C executable lib530
+[ 60%] Built target lib530
+Scanning dependencies of target lib507
+[ 62%] Building C object tests/libtest/CMakeFiles/lib507.dir/lib507.c.o
+[ 62%] Building C object tests/libtest/CMakeFiles/lib507.dir/first.c.o
+[ 62%] Building C object tests/libtest/CMakeFiles/lib507.dir/testutil.c.o
+[ 62%] Building C object tests/libtest/CMakeFiles/lib507.dir/__/__/lib/warnless.c.o
+[ 62%] Linking C executable lib507
+[ 62%] Built target lib507
+Scanning dependencies of target lib510
+[ 62%] Building C object tests/libtest/CMakeFiles/lib510.dir/lib510.c.o
+[ 62%] Building C object tests/libtest/CMakeFiles/lib510.dir/first.c.o
+[ 62%] Linking C executable lib510
+[ 62%] Built target lib510
+Scanning dependencies of target lib514
+[ 62%] Building C object tests/libtest/CMakeFiles/lib514.dir/lib514.c.o
+[ 62%] Building C object tests/libtest/CMakeFiles/lib514.dir/first.c.o
+[ 62%] Linking C executable lib514
+[ 62%] Built target lib514
+Scanning dependencies of target lib552
+[ 62%] Building C object tests/libtest/CMakeFiles/lib552.dir/lib552.c.o
+[ 64%] Building C object tests/libtest/CMakeFiles/lib552.dir/first.c.o
+[ 64%] Building C object tests/libtest/CMakeFiles/lib552.dir/__/__/lib/warnless.c.o
+[ 64%] Linking C executable lib552
+[ 64%] Built target lib552
+Scanning dependencies of target lib562
+[ 66%] Building C object tests/libtest/CMakeFiles/lib562.dir/lib562.c.o
+[ 66%] Building C object tests/libtest/CMakeFiles/lib562.dir/first.c.o
+[ 66%] Linking C executable lib562
+[ 66%] Built target lib562
+Scanning dependencies of target lib560
+[ 66%] Building C object tests/libtest/CMakeFiles/lib560.dir/lib560.c.o
+[ 66%] Building C object tests/libtest/CMakeFiles/lib560.dir/first.c.o
+[ 66%] Building C object tests/libtest/CMakeFiles/lib560.dir/testutil.c.o
+[ 66%] Building C object tests/libtest/CMakeFiles/lib560.dir/__/__/lib/warnless.c.o
+[ 66%] Linking C executable lib560
+[ 66%] Built target lib560
+Scanning dependencies of target lib1503
+[ 66%] Building C object tests/libtest/CMakeFiles/lib1503.dir/lib1502.c.o
+[ 66%] Building C object tests/libtest/CMakeFiles/lib1503.dir/first.c.o
+[ 66%] Building C object tests/libtest/CMakeFiles/lib1503.dir/testutil.c.o
+[ 68%] Building C object tests/libtest/CMakeFiles/lib1503.dir/__/__/lib/warnless.c.o
+[ 68%] Linking C executable lib1503
+[ 68%] Built target lib1503
+Scanning dependencies of target lib515
+[ 68%] Building C object tests/libtest/CMakeFiles/lib515.dir/lib515.c.o
+[ 68%] Building C object tests/libtest/CMakeFiles/lib515.dir/first.c.o
+[ 68%] Linking C executable lib515
+[ 68%] Built target lib515
+Scanning dependencies of target lib519
+[ 68%] Building C object tests/libtest/CMakeFiles/lib519.dir/lib519.c.o
+[ 68%] Building C object tests/libtest/CMakeFiles/lib519.dir/first.c.o
+[ 68%] Linking C executable lib519
+[ 68%] Built target lib519
+Scanning dependencies of target lib516
+[ 68%] Building C object tests/libtest/CMakeFiles/lib516.dir/lib516.c.o
+[ 68%] Building C object tests/libtest/CMakeFiles/lib516.dir/first.c.o
+[ 68%] Linking C executable lib516
+[ 68%] Built target lib516
+Scanning dependencies of target lib653
+[ 70%] Building C object tests/libtest/CMakeFiles/lib653.dir/lib653.c.o
+[ 70%] Building C object tests/libtest/CMakeFiles/lib653.dir/first.c.o
+[ 70%] Linking C executable lib653
+[ 70%] Built target lib653
+Scanning dependencies of target lib652
+[ 70%] Building C object tests/libtest/CMakeFiles/lib652.dir/lib652.c.o
+[ 70%] Building C object tests/libtest/CMakeFiles/lib652.dir/first.c.o
+[ 70%] Linking C executable lib652
+[ 70%] Built target lib652
+Scanning dependencies of target lib556
+[ 70%] Building C object tests/libtest/CMakeFiles/lib556.dir/lib556.c.o
+[ 70%] Building C object tests/libtest/CMakeFiles/lib556.dir/first.c.o
+[ 72%] Building C object tests/libtest/CMakeFiles/lib556.dir/__/__/lib/warnless.c.o
+[ 72%] Linking C executable lib556
+[ 72%] Built target lib556
+Scanning dependencies of target lib509
+[ 72%] Building C object tests/libtest/CMakeFiles/lib509.dir/lib509.c.o
+[ 72%] Building C object tests/libtest/CMakeFiles/lib509.dir/first.c.o
+[ 72%] Linking C executable lib509
+[ 72%] Built target lib509
+Scanning dependencies of target lib513
+[ 72%] Building C object tests/libtest/CMakeFiles/lib513.dir/lib513.c.o
+[ 72%] Building C object tests/libtest/CMakeFiles/lib513.dir/first.c.o
+[ 72%] Linking C executable lib513
+[ 72%] Built target lib513
+Scanning dependencies of target lib553
+[ 72%] Building C object tests/libtest/CMakeFiles/lib553.dir/lib553.c.o
+[ 72%] Building C object tests/libtest/CMakeFiles/lib553.dir/first.c.o
+[ 72%] Linking C executable lib553
+[ 72%] Built target lib553
+Scanning dependencies of target lib1520
+[ 72%] Building C object tests/libtest/CMakeFiles/lib1520.dir/lib1520.c.o
+[ 75%] Building C object tests/libtest/CMakeFiles/lib1520.dir/first.c.o
+[ 75%] Linking C executable lib1520
+[ 75%] Built target lib1520
+Scanning dependencies of target lib557
+[ 75%] Building C object tests/libtest/CMakeFiles/lib557.dir/lib557.c.o
+[ 75%] Building C object tests/libtest/CMakeFiles/lib557.dir/first.c.o
+[ 75%] Linking C executable lib557
+[ 75%] Built target lib557
+Scanning dependencies of target lib558
+[ 75%] Building C object tests/libtest/CMakeFiles/lib558.dir/lib558.c.o
+[ 75%] Building C object tests/libtest/CMakeFiles/lib558.dir/first.c.o
+[ 75%] Linking C executable lib558
+[ 75%] Built target lib558
+Scanning dependencies of target lib650
+[ 75%] Building C object tests/libtest/CMakeFiles/lib650.dir/lib650.c.o
+[ 75%] Building C object tests/libtest/CMakeFiles/lib650.dir/first.c.o
+[ 75%] Linking C executable lib650
+[ 75%] Built target lib650
+Scanning dependencies of target lib579
+[ 75%] Building C object tests/libtest/CMakeFiles/lib579.dir/lib579.c.o
+[ 75%] Building C object tests/libtest/CMakeFiles/lib579.dir/first.c.o
+[ 75%] Linking C executable lib579
+[ 75%] Built target lib579
+Scanning dependencies of target lib587
+[ 75%] Building C object tests/libtest/CMakeFiles/lib587.dir/lib554.c.o
+[ 75%] Building C object tests/libtest/CMakeFiles/lib587.dir/first.c.o
+[ 75%] Linking C executable lib587
+[ 75%] Built target lib587
+Scanning dependencies of target lib565
+[ 75%] Building C object tests/libtest/CMakeFiles/lib565.dir/lib510.c.o
+[ 75%] Building C object tests/libtest/CMakeFiles/lib565.dir/first.c.o
+[ 75%] Linking C executable lib565
+[ 75%] Built target lib565
+Scanning dependencies of target lib1510
+[ 75%] Building C object tests/libtest/CMakeFiles/lib1510.dir/lib1510.c.o
+[ 77%] Building C object tests/libtest/CMakeFiles/lib1510.dir/first.c.o
+[ 77%] Building C object tests/libtest/CMakeFiles/lib1510.dir/testutil.c.o
+[ 77%] Building C object tests/libtest/CMakeFiles/lib1510.dir/__/__/lib/warnless.c.o
+[ 77%] Linking C executable lib1510
+[ 77%] Built target lib1510
+Scanning dependencies of target lib517
+[ 79%] Building C object tests/libtest/CMakeFiles/lib517.dir/lib517.c.o
+[ 79%] Building C object tests/libtest/CMakeFiles/lib517.dir/first.c.o
+[ 79%] Linking C executable lib517
+[ 79%] Built target lib517
+Scanning dependencies of target lib567
+[ 79%] Building C object tests/libtest/CMakeFiles/lib567.dir/lib567.c.o
+[ 79%] Building C object tests/libtest/CMakeFiles/lib567.dir/first.c.o
+[ 79%] Linking C executable lib567
+[ 79%] Built target lib567
+Scanning dependencies of target lib1554
+[ 79%] Building C object tests/libtest/CMakeFiles/lib1554.dir/lib1554.c.o
+[ 79%] Building C object tests/libtest/CMakeFiles/lib1554.dir/first.c.o
+[ 79%] Linking C executable lib1554
+[ 79%] Built target lib1554
+Scanning dependencies of target lib572
+[ 79%] Building C object tests/libtest/CMakeFiles/lib572.dir/lib572.c.o
+[ 79%] Building C object tests/libtest/CMakeFiles/lib572.dir/first.c.o
+[ 79%] Linking C executable lib572
+[ 79%] Built target lib572
+Scanning dependencies of target lib520
+[ 79%] Building C object tests/libtest/CMakeFiles/lib520.dir/lib520.c.o
+[ 79%] Building C object tests/libtest/CMakeFiles/lib520.dir/first.c.o
+[ 79%] Linking C executable lib520
+[ 79%] Built target lib520
+Scanning dependencies of target lib568
+[ 81%] Building C object tests/libtest/CMakeFiles/lib568.dir/lib568.c.o
+[ 81%] Building C object tests/libtest/CMakeFiles/lib568.dir/first.c.o
+[ 81%] Linking C executable lib568
+[ 81%] Built target lib568
+Scanning dependencies of target lib518
+[ 81%] Building C object tests/libtest/CMakeFiles/lib518.dir/lib518.c.o
+[ 81%] Building C object tests/libtest/CMakeFiles/lib518.dir/first.c.o
+[ 81%] Building C object tests/libtest/CMakeFiles/lib518.dir/__/__/lib/warnless.c.o
+[ 81%] Linking C executable lib518
+[ 81%] Built target lib518
+Scanning dependencies of target lib569
+[ 81%] Building C object tests/libtest/CMakeFiles/lib569.dir/lib569.c.o
+[ 81%] Building C object tests/libtest/CMakeFiles/lib569.dir/first.c.o
+[ 81%] Linking C executable lib569
+[ 81%] Built target lib569
+Scanning dependencies of target lib571
+[ 81%] Building C object tests/libtest/CMakeFiles/lib571.dir/lib571.c.o
+[ 81%] Building C object tests/libtest/CMakeFiles/lib571.dir/first.c.o
+[ 81%] Building C object tests/libtest/CMakeFiles/lib571.dir/__/__/lib/warnless.c.o
+[ 81%] Linking C executable lib571
+[ 81%] Built target lib571
+Scanning dependencies of target lib1509
+[ 81%] Building C object tests/libtest/CMakeFiles/lib1509.dir/lib1509.c.o
+[ 81%] Building C object tests/libtest/CMakeFiles/lib1509.dir/first.c.o
+[ 81%] Building C object tests/libtest/CMakeFiles/lib1509.dir/testutil.c.o
+[ 81%] Building C object tests/libtest/CMakeFiles/lib1509.dir/__/__/lib/warnless.c.o
+[ 81%] Linking C executable lib1509
+[ 81%] Built target lib1509
+Scanning dependencies of target lib574
+[ 81%] Building C object tests/libtest/CMakeFiles/lib574.dir/lib574.c.o
+[ 81%] Building C object tests/libtest/CMakeFiles/lib574.dir/first.c.o
+[ 81%] Linking C executable lib574
+[ 81%] Built target lib574
+Scanning dependencies of target lib655
+[ 81%] Building C object tests/libtest/CMakeFiles/lib655.dir/lib655.c.o
+[ 81%] Building C object tests/libtest/CMakeFiles/lib655.dir/first.c.o
+[ 81%] Linking C executable lib655
+[ 81%] Built target lib655
+Scanning dependencies of target lib578
+[ 81%] Building C object tests/libtest/CMakeFiles/lib578.dir/lib578.c.o
+[ 81%] Building C object tests/libtest/CMakeFiles/lib578.dir/first.c.o
+[ 81%] Linking C executable lib578
+[ 81%] Built target lib578
+Scanning dependencies of target lib541
+[ 81%] Building C object tests/libtest/CMakeFiles/lib541.dir/lib541.c.o
+[ 81%] Building C object tests/libtest/CMakeFiles/lib541.dir/first.c.o
+[ 81%] Linking C executable lib541
+[ 81%] Built target lib541
+Scanning dependencies of target lib511
+[ 81%] Building C object tests/libtest/CMakeFiles/lib511.dir/lib511.c.o
+[ 81%] Building C object tests/libtest/CMakeFiles/lib511.dir/first.c.o
+[ 83%] Linking C executable lib511
+[ 83%] Built target lib511
+Scanning dependencies of target lib583
+[ 83%] Building C object tests/libtest/CMakeFiles/lib583.dir/lib583.c.o
+[ 83%] Building C object tests/libtest/CMakeFiles/lib583.dir/first.c.o
+[ 83%] Linking C executable lib583
+[ 83%] Built target lib583
+Scanning dependencies of target lib585
+[ 83%] Building C object tests/libtest/CMakeFiles/lib585.dir/lib500.c.o
+[ 83%] Building C object tests/libtest/CMakeFiles/lib585.dir/first.c.o
+[ 85%] Building C object tests/libtest/CMakeFiles/lib585.dir/testutil.c.o
+[ 85%] Building C object tests/libtest/CMakeFiles/lib585.dir/testtrace.c.o
+[ 85%] Linking C executable lib585
+[ 85%] Built target lib585
+Scanning dependencies of target lib586
+[ 85%] Building C object tests/libtest/CMakeFiles/lib586.dir/lib586.c.o
+[ 85%] Building C object tests/libtest/CMakeFiles/lib586.dir/first.c.o
+[ 85%] Linking C executable lib586
+[ 85%] Built target lib586
+Scanning dependencies of target lib589
+[ 85%] Building C object tests/libtest/CMakeFiles/lib589.dir/lib589.c.o
+[ 85%] Building C object tests/libtest/CMakeFiles/lib589.dir/first.c.o
+[ 85%] Linking C executable lib589
+[ 85%] Built target lib589
+Scanning dependencies of target lib591
+[ 85%] Building C object tests/libtest/CMakeFiles/lib591.dir/lib591.c.o
+[ 87%] Building C object tests/libtest/CMakeFiles/lib591.dir/first.c.o
+[ 87%] Building C object tests/libtest/CMakeFiles/lib591.dir/testutil.c.o
+[ 87%] Building C object tests/libtest/CMakeFiles/lib591.dir/__/__/lib/warnless.c.o
+[ 87%] Linking C executable lib591
+[ 87%] Built target lib591
+Scanning dependencies of target lib599
+[ 87%] Building C object tests/libtest/CMakeFiles/lib599.dir/lib599.c.o
+[ 87%] Building C object tests/libtest/CMakeFiles/lib599.dir/first.c.o
+[ 87%] Linking C executable lib599
+[ 87%] Built target lib599
+Scanning dependencies of target lib1525
+[ 87%] Building C object tests/libtest/CMakeFiles/lib1525.dir/lib1525.c.o
+[ 87%] Building C object tests/libtest/CMakeFiles/lib1525.dir/first.c.o
+[ 87%] Building C object tests/libtest/CMakeFiles/lib1525.dir/testutil.c.o
+[ 87%] Building C object tests/libtest/CMakeFiles/lib1525.dir/__/__/lib/warnless.c.o
+[ 87%] Linking C executable lib1525
+[ 87%] Built target lib1525
+Scanning dependencies of target lib654
+[ 87%] Building C object tests/libtest/CMakeFiles/lib654.dir/lib654.c.o
+[ 87%] Building C object tests/libtest/CMakeFiles/lib654.dir/first.c.o
+[ 87%] Linking C executable lib654
+[ 87%] Built target lib654
+Scanning dependencies of target lib1500
+[ 87%] Building C object tests/libtest/CMakeFiles/lib1500.dir/lib1500.c.o
+[ 89%] Building C object tests/libtest/CMakeFiles/lib1500.dir/first.c.o
+[ 89%] Building C object tests/libtest/CMakeFiles/lib1500.dir/testutil.c.o
+[ 89%] Linking C executable lib1500
+[ 89%] Built target lib1500
+Scanning dependencies of target lib537
+[ 89%] Building C object tests/libtest/CMakeFiles/lib537.dir/lib537.c.o
+[ 89%] Building C object tests/libtest/CMakeFiles/lib537.dir/first.c.o
+[ 89%] Building C object tests/libtest/CMakeFiles/lib537.dir/__/__/lib/warnless.c.o
+[ 89%] Linking C executable lib537
+[ 89%] Built target lib537
+Scanning dependencies of target lib1501
+[ 89%] Building C object tests/libtest/CMakeFiles/lib1501.dir/lib1501.c.o
+[ 89%] Building C object tests/libtest/CMakeFiles/lib1501.dir/first.c.o
+[ 89%] Building C object tests/libtest/CMakeFiles/lib1501.dir/testutil.c.o
+[ 89%] Building C object tests/libtest/CMakeFiles/lib1501.dir/__/__/lib/warnless.c.o
+[ 89%] Linking C executable lib1501
+[ 89%] Built target lib1501
+Scanning dependencies of target lib1504
+[ 89%] Building C object tests/libtest/CMakeFiles/lib1504.dir/lib1502.c.o
+[ 89%] Building C object tests/libtest/CMakeFiles/lib1504.dir/first.c.o
+[ 89%] Building C object tests/libtest/CMakeFiles/lib1504.dir/testutil.c.o
+[ 89%] Building C object tests/libtest/CMakeFiles/lib1504.dir/__/__/lib/warnless.c.o
+[ 89%] Linking C executable lib1504
+[ 89%] Built target lib1504
+Scanning dependencies of target getpart
+[ 89%] Building C object tests/server/CMakeFiles/getpart.dir/__/__/lib/mprintf.c.o
+[ 89%] Building C object tests/server/CMakeFiles/getpart.dir/__/__/lib/nonblock.c.o
+[ 89%] Building C object tests/server/CMakeFiles/getpart.dir/__/__/lib/strtoofft.c.o
+[ 89%] Building C object tests/server/CMakeFiles/getpart.dir/__/__/lib/warnless.c.o
+[ 89%] Building C object tests/server/CMakeFiles/getpart.dir/__/__/lib/curl_ctype.c.o
+[ 91%] Building C object tests/server/CMakeFiles/getpart.dir/getpart.c.o
+[ 91%] Building C object tests/server/CMakeFiles/getpart.dir/__/__/lib/base64.c.o
+[ 91%] Building C object tests/server/CMakeFiles/getpart.dir/__/__/lib/memdebug.c.o
+[ 91%] Building C object tests/server/CMakeFiles/getpart.dir/testpart.c.o
+[ 91%] Linking C executable getpart
+[ 91%] Built target getpart
+Scanning dependencies of target sockfilt
+[ 91%] Building C object tests/server/CMakeFiles/sockfilt.dir/__/__/lib/mprintf.c.o
+[ 91%] Building C object tests/server/CMakeFiles/sockfilt.dir/__/__/lib/nonblock.c.o
+[ 91%] Building C object tests/server/CMakeFiles/sockfilt.dir/__/__/lib/strtoofft.c.o
+[ 91%] Building C object tests/server/CMakeFiles/sockfilt.dir/__/__/lib/warnless.c.o
+[ 93%] Building C object tests/server/CMakeFiles/sockfilt.dir/__/__/lib/curl_ctype.c.o
+[ 93%] Building C object tests/server/CMakeFiles/sockfilt.dir/getpart.c.o
+[ 93%] Building C object tests/server/CMakeFiles/sockfilt.dir/__/__/lib/base64.c.o
+[ 93%] Building C object tests/server/CMakeFiles/sockfilt.dir/__/__/lib/memdebug.c.o
+[ 93%] Building C object tests/server/CMakeFiles/sockfilt.dir/util.c.o
+[ 93%] Building C object tests/server/CMakeFiles/sockfilt.dir/sockfilt.c.o
+[ 93%] Building C object tests/server/CMakeFiles/sockfilt.dir/__/__/lib/inet_pton.c.o
+[ 93%] Linking C executable sockfilt
+[ 93%] Built target sockfilt
+Scanning dependencies of target resolve
+[ 93%] Building C object tests/server/CMakeFiles/resolve.dir/__/__/lib/mprintf.c.o
+[ 93%] Building C object tests/server/CMakeFiles/resolve.dir/__/__/lib/nonblock.c.o
+[ 93%] Building C object tests/server/CMakeFiles/resolve.dir/__/__/lib/strtoofft.c.o
+[ 93%] Building C object tests/server/CMakeFiles/resolve.dir/__/__/lib/warnless.c.o
+[ 93%] Building C object tests/server/CMakeFiles/resolve.dir/__/__/lib/curl_ctype.c.o
+[ 93%] Building C object tests/server/CMakeFiles/resolve.dir/getpart.c.o
+[ 93%] Building C object tests/server/CMakeFiles/resolve.dir/__/__/lib/base64.c.o
+[ 93%] Building C object tests/server/CMakeFiles/resolve.dir/__/__/lib/memdebug.c.o
+[ 93%] Building C object tests/server/CMakeFiles/resolve.dir/util.c.o
+[ 95%] Building C object tests/server/CMakeFiles/resolve.dir/resolve.c.o
+[ 95%] Linking C executable resolve
+[ 95%] Built target resolve
+Scanning dependencies of target sws
+[ 95%] Building C object tests/server/CMakeFiles/sws.dir/__/__/lib/mprintf.c.o
+[ 95%] Building C object tests/server/CMakeFiles/sws.dir/__/__/lib/nonblock.c.o
+[ 95%] Building C object tests/server/CMakeFiles/sws.dir/__/__/lib/strtoofft.c.o
+[ 95%] Building C object tests/server/CMakeFiles/sws.dir/__/__/lib/warnless.c.o
+[ 95%] Building C object tests/server/CMakeFiles/sws.dir/__/__/lib/curl_ctype.c.o
+[ 95%] Building C object tests/server/CMakeFiles/sws.dir/getpart.c.o
+[ 95%] Building C object tests/server/CMakeFiles/sws.dir/__/__/lib/base64.c.o
+[ 95%] Building C object tests/server/CMakeFiles/sws.dir/__/__/lib/memdebug.c.o
+[ 97%] Building C object tests/server/CMakeFiles/sws.dir/util.c.o
+[ 97%] Building C object tests/server/CMakeFiles/sws.dir/sws.c.o
+[ 97%] Building C object tests/server/CMakeFiles/sws.dir/__/__/lib/inet_pton.c.o
+[ 97%] Linking C executable sws
+[ 97%] Built target sws
+Scanning dependencies of target fake_ntlm
+[ 97%] Building C object tests/server/CMakeFiles/fake_ntlm.dir/__/__/lib/mprintf.c.o
+[100%] Building C object tests/server/CMakeFiles/fake_ntlm.dir/__/__/lib/nonblock.c.o
+[100%] Building C object tests/server/CMakeFiles/fake_ntlm.dir/__/__/lib/strtoofft.c.o
+[100%] Building C object tests/server/CMakeFiles/fake_ntlm.dir/__/__/lib/warnless.c.o
+[100%] Building C object tests/server/CMakeFiles/fake_ntlm.dir/__/__/lib/curl_ctype.c.o
+[100%] Building C object tests/server/CMakeFiles/fake_ntlm.dir/getpart.c.o
+[100%] Building C object tests/server/CMakeFiles/fake_ntlm.dir/__/__/lib/base64.c.o
+[100%] Building C object tests/server/CMakeFiles/fake_ntlm.dir/__/__/lib/memdebug.c.o
+[100%] Building C object tests/server/CMakeFiles/fake_ntlm.dir/util.c.o
+[100%] Building C object tests/server/CMakeFiles/fake_ntlm.dir/fake_ntlm.c.o
+[100%] Linking C executable fake_ntlm
+[100%] Built target fake_ntlm
+Scanning dependencies of target tftpd
+[100%] Building C object tests/server/CMakeFiles/tftpd.dir/__/__/lib/mprintf.c.o
+[100%] Building C object tests/server/CMakeFiles/tftpd.dir/__/__/lib/nonblock.c.o
+[100%] Building C object tests/server/CMakeFiles/tftpd.dir/__/__/lib/strtoofft.c.o
+[100%] Building C object tests/server/CMakeFiles/tftpd.dir/__/__/lib/warnless.c.o
+[100%] Building C object tests/server/CMakeFiles/tftpd.dir/__/__/lib/curl_ctype.c.o
+[100%] Building C object tests/server/CMakeFiles/tftpd.dir/getpart.c.o
+[100%] Building C object tests/server/CMakeFiles/tftpd.dir/__/__/lib/base64.c.o
+[100%] Building C object tests/server/CMakeFiles/tftpd.dir/__/__/lib/memdebug.c.o
+[100%] Building C object tests/server/CMakeFiles/tftpd.dir/util.c.o
+[100%] Building C object tests/server/CMakeFiles/tftpd.dir/tftpd.c.o
+[100%] Linking C executable tftpd
+[100%] Built target tftpd
+Scanning dependencies of target rtspd
+[100%] Building C object tests/server/CMakeFiles/rtspd.dir/__/__/lib/mprintf.c.o
+[100%] Building C object tests/server/CMakeFiles/rtspd.dir/__/__/lib/nonblock.c.o
+[100%] Building C object tests/server/CMakeFiles/rtspd.dir/__/__/lib/strtoofft.c.o
+[100%] Building C object tests/server/CMakeFiles/rtspd.dir/__/__/lib/warnless.c.o
+[100%] Building C object tests/server/CMakeFiles/rtspd.dir/__/__/lib/curl_ctype.c.o
+[100%] Building C object tests/server/CMakeFiles/rtspd.dir/getpart.c.o
+[100%] Building C object tests/server/CMakeFiles/rtspd.dir/__/__/lib/base64.c.o
+[100%] Building C object tests/server/CMakeFiles/rtspd.dir/__/__/lib/memdebug.c.o
+[100%] Building C object tests/server/CMakeFiles/rtspd.dir/util.c.o
+[100%] Building C object tests/server/CMakeFiles/rtspd.dir/rtspd.c.o
+[100%] Linking C executable rtspd
+[100%] Built target rtspd
